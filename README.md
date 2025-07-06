@@ -22,7 +22,7 @@ A Django REST API for managing property listings and bookings.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/alx_travel_app.git
+   git clone https://github.com/mj-weshh/alx_travel_app.git
    cd alx_travel_app
    ```
 
@@ -71,8 +71,11 @@ A Django REST API for managing property listings and bookings.
 Once the server is running, you can access the following endpoints:
 
 - API Documentation (Swagger UI): http://127.0.0.1:8000/swagger/
+  ![Screenshot 2025-07-06 110359](https://github.com/user-attachments/assets/a8faeb99-80df-461f-8f33-629fdbbcbeeb)
 - Admin Interface: http://127.0.0.1:8000/admin/
+  ![Screenshot 2025-07-06 110336](https://github.com/user-attachments/assets/69a044f8-7d9f-41a9-a42d-1d0685851ead)
 - API Root: http://127.0.0.1:8000/api/
+  ![Screenshot 2025-07-06 110344](https://github.com/user-attachments/assets/5a159416-2208-4c6a-8f99-b26a386be1da)
 
 ## Available Endpoints
 
