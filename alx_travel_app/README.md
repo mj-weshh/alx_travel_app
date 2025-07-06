@@ -37,7 +37,7 @@ A Django REST API for managing property listings and bookings.
 
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 4. Create a `.env` file in the project root with your database configuration:
