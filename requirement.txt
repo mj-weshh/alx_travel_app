@@ -1,7 +1,0 @@
-Django>=4.0
-djangorestframework
-django-cors-headers
-drf-yasg
-django-environ
-mysqlclient
-celery
